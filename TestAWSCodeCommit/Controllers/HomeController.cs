@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TestAWSCodeCommit.Models;
+using System.Data;
 
 namespace TestAWSCodeCommit.Controllers
 {
@@ -13,6 +14,11 @@ namespace TestAWSCodeCommit.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+        public DataSet Prueba()
+        {
+            return new DataSet();
         }
 
         public IActionResult About()
