@@ -1,0 +1,41 @@
+commit 83ca87aca356cd32d9d49cc9951a6e8a77f104bb
+Author: Eduardo <eduardmrp.77@gmail.com>
+Date:   Fri Nov 9 10:57:02 2018 -0600
+
+    Se agrego un nuevo metodo el controlador TestControler
+
+commit 1071eeaf7f7dccfe5e9f5f1886822f044b0df4be
+Author: Eduardo <eduardmrp.77@gmail.com>
+Date:   Fri Nov 9 10:51:18 2018 -0600
+
+    Se agrego el controlador TestController
+
+commit cbe6136146547316cdcf196fe6c9f2d074ad069c
+Author: Eduardo Manuel Rivas Perez <eduardo_upz_7@hotmail.com>
+Date:   Fri Nov 9 10:23:29 2018 -0600
+
+    Se cambio el nombre del metodo Prueba2 a RetornaDataset
+
+commit 370cc44c3302f21105639f93e37461c02ff8c147
+Author: Eduardo Manuel Rivas Perez <eduardo_upz_7@hotmail.com>
+Date:   Fri Nov 9 10:19:15 2018 -0600
+
+    Creacio del metodo prueba2
+
+commit 698ad77959bbdcdb960ce7a087eb73e07061b78f
+Author: Eduardo Manuel Rivas Perez <eduardo_upz_7@hotmail.com>
+Date:   Thu Nov 8 18:42:38 2018 -0600
+
+    Se agrega el metodo Prueba que retorna un Dataset vacio.
+
+commit 807525872bca9c2f1484c7de661622c74c51e523
+Author: Eduardo Manuel Rivas Perez <edrivas@gruposenda.com>
+Date:   Thu Nov 8 18:38:11 2018 -0600
+
+    Add project files.
+
+commit 68c967e9abf619e7082403ada89acc842d357184
+Author: edrivas <edrivas@125059NLCORC1-D>
+Date:   Thu Nov 8 18:37:59 2018 -0600
+
+    Add .gitignore and .gitattributes.
