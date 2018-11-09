@@ -12,5 +12,10 @@ namespace TestAWSCodeCommit.Controllers
         {
             return View();
         }
+
+        public string Accion()
+        {
+            return "Primeros Pasos en Git";
+        }
     }
 }
