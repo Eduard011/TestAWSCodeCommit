@@ -21,7 +21,7 @@ namespace TestAWSCodeCommit.Controllers
             return new DataSet();
         }
 
-        public DataSet Prueba2()
+        public DataSet RetornaDataset()
         {
             return new DataSet();
         }
