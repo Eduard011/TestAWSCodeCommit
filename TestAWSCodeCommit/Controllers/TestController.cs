@@ -13,6 +13,12 @@ namespace TestAWSCodeCommit.Controllers
             return View();
         }
 
+        public IActionResult GitView()
+        {
+            ViewBag.Msg = Accion();
+            return View();
+        }
+
         public string Accion()
         {
             return "Primeros Pasos en Git";
