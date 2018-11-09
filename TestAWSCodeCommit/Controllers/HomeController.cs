@@ -21,6 +21,11 @@ namespace TestAWSCodeCommit.Controllers
             return new DataSet();
         }
 
+        public DataSet Prueba2()
+        {
+            return new DataSet();
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
